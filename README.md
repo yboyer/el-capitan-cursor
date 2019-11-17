@@ -7,7 +7,7 @@
 ### Installation
 Clone the repo into your `~/.icons` directory and enable it with `gnome-tweak-tools` or `unity-tweak-tool`.
 ```bash
-git clone https://github.com/yboyer/el-capitan-cursor '~/.icons/El Capitan - Cursor'
+git clone https://github.com/yboyer/el-capitan-cursor ~/.icons/El\ Capitan\ -\ Cursor
 ```
 
 
